@@ -50,4 +50,4 @@ A minimal and powerful AI chatbot built with the **[Vercel AI SDK](https://sdk.v
    pnpm dev
    ```
    
-For more information, visit the Vercel AI SDK official documentation.
+For more information, visit the [Vercel AI SDK official documentation](https://ai-sdk.dev/)
