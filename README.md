@@ -26,20 +26,28 @@ A minimal and powerful AI chatbot built with the **[Vercel AI SDK](https://sdk.v
 ## 📦 Installation
 
 1. **Clone the repository**
+   
    ```bash
    git clone https://github.com/<your-username>/simple-vercel-groq-chatbot.git
    cd simple-vercel-groq-chatbot
    ```
+   
 2. **Install dependencies**
+
    ```bash
    pnpm install
    ```
- 3. **Create a .env file**
+
+3. **Create a .env file**
+
    ```bash
    GROQ_API_KEY=your_groq_api_key
    ```
- 4. **Run the development server**
-    ```bash
-    pnpm dev
-    ```
+
+4. **Run the development server**
+
+   ```bash
+   pnpm dev
+   ```
+   
 For more information, visit the Vercel AI SDK official documentation.
